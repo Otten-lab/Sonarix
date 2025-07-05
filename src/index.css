@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Дополнительные кастомные стили */
+.bg-purple-600 {
+    background-color: #7E57C2;
+}
+.hover\:bg-purple-700:hover {
+    background-color: #6D4CAB;
+}
